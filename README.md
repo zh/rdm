@@ -145,7 +145,7 @@ rdm groups create --name "Developers" --user-ids 1,2,3
 
 ### Queries & Custom Fields
 
-> Requires the [Extended API](https://github.com/agileware/extended_api) Redmine plugin for create/update/delete. List works without it.
+> Requires the [Extended API](https://github.com/zh/redmine_extended_api) Redmine plugin for create/update/delete. List works without it.
 
 ```bash
 rdm queries list --project-id myproject
